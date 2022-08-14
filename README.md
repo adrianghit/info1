@@ -22,13 +22,13 @@ Romanian, currently undergoing my bachelor’s in construction management (Honou
 
 <h1>Ideal job</h1>
 <p>https://www.seek.com.au/job/57967319?type=standard#sol=bb18799b557e3125f2c67cd145b28f783a1917ef</p>
-<p>The position attached is of a senior construction management role, with a 250,000-300,000 salary, this is something I would like to work towards but requires experience, not listed (year amount) however the salary is generous, and the role gives you freedom, in the sense that you are the ‘boss’ of the site and can do anything as long as the project ends on times </p>
+<p>The position attached is of a senior construction management role, with a 250,000-300,000 salary, this is something I would like to work towards but requires experience, not listed (year amount) however the salary is generous, and the role gives you freedom, in the sense that you are the ‘boss’ of the site and can do anything as long as the project ends on times.</p>
 
-<p>This job requires a proven track record as a senior project manager, however does not demand qualifications (Bachelor’s) instead being focused on experience prior, and characteristics of the right candidate</p>
+<p>This job requires a proven track record as a senior project manager, however does not demand qualifications (Bachelor’s) instead being focused on experience prior, and characteristics of the right candidate.</p>
 
-<p>At the moment, my skills and qualifications are limited, as I do not have a qualification, yet I have some skills I have obtained from the course, yet still not able to enter a role immediately</p>
+<p>At the moment, my skills and qualifications are limited, as I do not have a qualification, yet I have some skills I have obtained from the course, yet still not able to enter a role immediately.</p>
 
-<p>To obtain the skills, I will complete the course, and obtain a job which will provide me insights and experience to eventually reach this ideal goal of senior PM</p>
+<p>To obtain the skills, I will complete the course, and obtain a job which will provide me insights and experience to eventually reach this ideal goal of senior PM.</p>
 
 <h1>Personal Profile</h1>
 <p>The results of the Myer Briggs test: Entrepreneur</p>
