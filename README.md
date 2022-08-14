@@ -31,3 +31,15 @@ Romanian, currently undergoing my bachelor’s in construction management (Honou
 <p>To obtain the skills, I will complete the course, and obtain a job which will provide me insights and experience to eventually reach this ideal goal of senior PM</p>
 
 <h1>Personal Profile</h1>
+<p>The results of the Myer Briggs test: Entrepreneur</p>
+<p>The results of the Online Learning Styles Test: Tactile</p>
+<p>The results of the Big Five Personality Test: Extraversion</p>
+
+<h3>What do the results of these tests mean for you?</h3>
+<p>The results mean that I am a person with qualities resembling an entrepreneur, and a bit extroverted, as I am “energised by the whole world”. The learning style test states that I am a tactile learner who learns best from ‘hands on’ experience.</p>
+
+<h3>How do you think these results may influence your behaviour in a team?</h3>
+<p>Within a team environment, I may not be as effective, however, according to the results I do well independently so therefore if assigned work I will do it effectively without reaching out and relying on others.</p>
+
+<h3>How should you take this into account when forming a team?</h3>
+<p>The results do not necessarily alter my decision making when forming a team, as individuals will group themselves with whoever they sit next to or find in a class, however in my case, the lecturer has grouped me in a group instead.</p>
